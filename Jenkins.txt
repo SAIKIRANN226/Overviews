@@ -1,0 +1,25 @@
+1. What is jenkins ? and what is CICD ?
+2. How to create jenkins server which is also called as jenkins-master ?
+3. What is JOB in jenkins ? jenkins port Number ? Nexus port Number ? How to create a sample file or JOB ?
+4. What is free-style project? and why this is not preffered by anyone rightnow ? and create a free-style 
+   sample job in jenkins server using execute shell 
+5. Creating resources in aws through console and scripting what are the advantages and disadvanatges ?
+6. What is jenkins pipeline ? and its syntax ? create sample pipeline job in jenkins server? and why this is 
+   preffered over free-style ?
+7. What is pipeline script from SCM ? why this is preffered over pipeline ? and what is GitOps ?
+8. Raw syntax of pipeline ?
+9. What is agent ?
+10. Where does the jenkins configuration will be saved ? "cd /var/lib/jenkins/" . Why CentOs doesnt have sudo 
+    access to /var/lib/jenkins/ ? why we need to create in /home/centos/<name>
+11. How do you configure the master-agent architecture ?
+12. Types of jenkins workflow ?
+13. Host ? can we keep public_ip or private_ip ? while configuring agent ?
+14. Configure credentials also 
+15. Hostkey verification strategy ? why to put "non-verifying verification strategy" ?
+16. How many agents can we add ?
+17. Is it mandatory to have jenkins in nodes ?
+18. How to check if nodes are connected or not ? 
+19. Post section in pipeline syntax ?
+20. Environments section in pipeline syntax ?
+21. Triggers ? webhook ? how to add a wehbook in github ? URL "http://18.343.33.34:8080/github-webhook/
+22. 
