@@ -22,4 +22,5 @@
 19. Post section in pipeline syntax ?
 20. Environments section in pipeline syntax ?
 21. Triggers ? webhook ? how to add a wehbook in github ? URL "http://18.343.33.34:8080/github-webhook/
-22. 
+22. Where the logs will be saved ?
+23. 
