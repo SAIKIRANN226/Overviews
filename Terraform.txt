@@ -1,1 +1,11 @@
-
+1. What is terraform ? what is mean by configuration file ? what is HCL ?
+2. What is infrastructure ? and what are there in the infra ?
+3. How did you configure project tillnow and what tools you prefer to configure the project ?
+4. Why we dint prefer manual over ansible ? 
+5. Why doing work manually is least preferred while with scripting ?
+6. What are other tools for scripting other then terraform ?
+7. Advantages of Terraform scripting ?
+8. Terraform environment setup ?
+9. Install "hashicorp terraform extension" to get the colors
+10. Why AwsCLI ? and where these credentials will be saved ?
+11. Terraform syntax ? 
