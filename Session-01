@@ -1,1 +1,20 @@
-
+1. What is computer ?
+2. What is server ? and its purpose ?
+3. Client-Server architecture ?
+4. How Operating system works for humans ?
+5. Windows vs Linux ?
+6. How to connect to Linux servers ?
+7. How many authentication machanims are there to connect to linux servers ?
+8. How to generate a link between Lock and Key ? using command
+9. How many files will be created when you generate a link between Lock and Key
+10. How to enable extensions for files in control panel ?
+11. Syntax for Public-key and Private_key ?
+12. Steps to connect to server with keys in gitbash ?
+13. Command to connect to instance ?
+14. What is gitbash/Protocol/Ec2 server is ssh server/port number for ssh ?
+15. What is absolute path and relative path ?
+16. When you open gitbash where you will be landed bydefault ?
+17. CD ---> you will go user directory 
+18. Which command is used to clear lines in gitbash ?
+19. What you will do when you stuck in the gitbash ? or like unable to enter any command ?
+20. Security group is also called as Firewall
