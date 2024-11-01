@@ -1,1 +1,6 @@
-
+1. Service management ?
+2. Apartment example ?
+3. ssh -i <path-to-privatekey> ec2user@IP_address ---> How this example work as service management ?
+4. www.facebook.com ---> another example 
+5. Algorithm for connecting to ssh-server ?
+6. 
